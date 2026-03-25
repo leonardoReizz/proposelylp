@@ -56,7 +56,7 @@ export function Hero() {
             className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-6"
           >
             <a
-              href="#"
+              href="https://proposely.leonardo-reis.com"
               className="inline-flex items-center justify-center gap-2 h-12 px-8 rounded-xl bg-primary text-primary-foreground font-semibold text-base hover:opacity-90 transition-opacity shadow-lg shadow-primary/25"
             >
               Começar grátis

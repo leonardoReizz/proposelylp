@@ -22,7 +22,7 @@ export function Footer() {
                 (item) => (
                   <li key={item}>
                     <a
-                      href="#"
+                      href="https://proposely.leonardo-reis.com"
                       className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                     >
                       {item}
@@ -40,7 +40,7 @@ export function Footer() {
               {["Sobre", "Blog", "Contato", "Carreiras"].map((item) => (
                 <li key={item}>
                   <a
-                    href="#"
+                    href="https://proposely.leonardo-reis.com"
                     className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                   >
                     {item}
@@ -61,7 +61,7 @@ export function Footer() {
               ].map((item) => (
                 <li key={item}>
                   <a
-                    href="#"
+                    href="https://proposely.leonardo-reis.com"
                     className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                   >
                     {item}
@@ -81,7 +81,7 @@ export function Footer() {
             {["Twitter", "LinkedIn", "Instagram"].map((social) => (
               <a
                 key={social}
-                href="#"
+                href="https://proposely.leonardo-reis.com"
                 className="text-xs text-muted-foreground hover:text-foreground transition-colors"
               >
                 {social}

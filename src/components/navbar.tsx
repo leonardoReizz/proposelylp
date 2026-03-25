@@ -32,7 +32,7 @@ export function Navbar() {
       )}
     >
       <nav className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-        <a href="#" className="font-brand text-2xl font-bold text-primary">
+        <a href="https://proposely.leonardo-reis.com" className="font-brand text-2xl font-bold text-primary">
           Proposely
         </a>
 
@@ -51,13 +51,13 @@ export function Navbar() {
 
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="#"
+            href="https://proposely.leonardo-reis.com"
             className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
           >
             Entrar
           </a>
           <a
-            href="#"
+            href="https://proposely.leonardo-reis.com"
             className="inline-flex items-center justify-center h-9 px-5 rounded-lg bg-primary text-primary-foreground text-sm font-medium hover:opacity-90 transition-opacity"
           >
             Começar grátis
@@ -89,13 +89,13 @@ export function Navbar() {
           ))}
           <div className="flex flex-col gap-2 pt-2">
             <a
-              href="#"
+              href="https://proposely.leonardo-reis.com"
               className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
             >
               Entrar
             </a>
             <a
-              href="#"
+              href="https://proposely.leonardo-reis.com"
               className="inline-flex items-center justify-center h-10 px-5 rounded-lg bg-primary text-primary-foreground text-sm font-medium"
             >
               Começar grátis

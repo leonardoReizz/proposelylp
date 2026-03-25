@@ -139,7 +139,7 @@ export function Pricing() {
                   </div>
 
                   <a
-                    href="#"
+                    href="https://proposely.leonardo-reis.com"
                     className={cn(
                       "inline-flex items-center justify-center gap-2 h-11 rounded-xl font-semibold text-sm transition-all mb-8",
                       plan.highlighted

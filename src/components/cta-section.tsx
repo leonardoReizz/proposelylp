@@ -20,7 +20,7 @@ export function CTASection() {
                 o Proposely pode transformar seu processo comercial.
               </p>
               <a
-                href="#"
+                href="https://proposely.leonardo-reis.com"
                 className="inline-flex items-center justify-center gap-2 h-12 px-8 rounded-xl bg-white text-primary font-semibold text-base hover:bg-white/90 transition-colors shadow-lg"
               >
                 Começar grátis agora
